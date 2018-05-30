@@ -1,3 +1,6 @@
 1. String is static final type, can't be changed during its reference process. 
 2. Method should be defined before its usage
-3.
+3. Introduce 3 method to cope with json data 
+      - import json
+      - from collections import defaultdict
+      - from collections import Counter
