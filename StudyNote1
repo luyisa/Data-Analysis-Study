@@ -1,0 +1,3 @@
+1. String is static final type, can't be changed during its reference process. 
+2. Method should be defined before its usage
+3.
